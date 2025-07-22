@@ -1,1 +1,1 @@
-# Auto-medic-Graduation-Project-
+# Auto-medic-Graduation-Project
