@@ -12,7 +12,7 @@ python -m pip install dlib-19.24.99-cp312-cp312-win_amd64.whl
 ```
 Now you can clone the repo in your directory/environment
 ```
-git clone https://github.com/AhmedHossam61/Auto-medic-Graduation-Project.git
+git clone https://github.com/AhmedHossam61/Graduation-Project.git
 cd project-name
 npm install
 pip install openCV numpy mediapipe dlib face-recognition
